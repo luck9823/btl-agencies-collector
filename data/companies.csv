@@ -1,0 +1,47 @@
+﻿inn,name,revenue_year,revenue,segment_tag,source,okved_main,employees,site,description,region,contacts,rating_ref
+7710419487,Group4Media,2023,85000000000,COMM_GROUP,manual_seed,,1800,,Медийная группа,,,AdIndex Обороты 2024
+7717618596,АДВ Груп,2023,45000000000,"COMM_GROUP,FULL_CYCLE",manual_seed,,2500,,Коммуникационная группа полного цикла,,,AdIndex 2024
+7704217628,OMD OM Group,2023,42000000000,COMM_GROUP,manual_seed,,580,,Медийная группа,,,AdIndex Обороты 2024
+7708578030,Media Instinct,2023,38000000000,COMM_GROUP,manual_seed,,420,,Медиабаинговое агентство,,,AdIndex Обороты 2024
+7710538780,ОМД Медиа Дирекшн,2023,28000000000,COMM_GROUP,manual_seed,,420,,Медийная группа,,,AdIndex
+7743001431,Dentsu Russia,2023,18000000000,"COMM_GROUP,FULL_CYCLE",manual_seed,,950,,Международная коммуникационная группа,,,AdIndex
+7702820073,Оккам,2023,15000000000,"COMM_GROUP,FULL_CYCLE",manual_seed,,1200,,"Коммуникационная группа, digital и маркетинговые услуги",,,АКАР DNMR 2024
+7743784003,Игроник,2023,12000000000,COMM_GROUP,manual_seed,,850,,Коммуникационная группа,,,AdIndex 2024
+7709870717,NMi Group,2023,11500000000,COMM_GROUP,manual_seed,,520,,Медийная группа,,,AdIndex
+7704534127,МГКом,2023,9500000000,FULL_CYCLE,manual_seed,,680,,Digital-агентство полного цикла,,,AdIndex Digital 2024
+7704251788,Starlink,2023,8900000000,COMM_GROUP,manual_seed,,380,,Медийное агентство,,,AdIndex
+7716688799,ГК Родная речь,2023,8500000000,"COMM_GROUP,FULL_CYCLE",manual_seed,,650,,Коммуникационная группа,,,AdIndex 2024
+7734339570,E-Promo,2023,7200000000,FULL_CYCLE,manual_seed,,520,,Performance-маркетинг,,,AdIndex Digital 2024
+7715513090,Initiative,2023,6800000000,COMM_GROUP,manual_seed,,320,,Медийное агентство,,,AdIndex
+7708242460,Realweb,2023,5800000000,FULL_CYCLE,manual_seed,,410,,Digital-агентство,,,AdIndex
+7714633498,EMG,2023,5500000000,"BTL,FULL_CYCLE",manual_seed,,850,,Крупнейшее российское агентство интегрированных маркетинговых коммуникаций,,,РРАР-2024 BTL
+7709851877,Mosaic,2023,4500000000,FULL_CYCLE,manual_seed,,380,,Агентство интегрированных коммуникаций,,,АКАР DNMR 2024
+7709409498,ООО ОПЕН,2023,3200000000,"BTL,FULL_CYCLE",manual_seed,,520,,"Агентство маркетинговых коммуникаций, мерчандайзинг",,,РРАР-2024 BTL
+7705686940,MaxiMarkt,2023,2800000000,BTL,manual_seed,,450,,"BTL-агентство, мерчандайзинг, промо",,,РАМУ BTL 2024
+7802127954,Проект 111,2023,2400000000,SOUVENIR,manual_seed,,350,,Сувенирная и промо-продукция,,,РРАР Сувениры
+7703196416,КРОС,2023,2200000000,"COMM_GROUP,FULL_CYCLE",manual_seed,,350,,"Коммуникационная группа, PR",,,РРАР PR
+7719629980,Leader Team,2023,2100000000,BTL,manual_seed,,380,,BTL и мерчандайзинг,,,РАМУ BTL
+7706608850,SFM,2023,1850000000,BTL,manual_seed,,320,,Агентство мерчандайзинга,,,РАМУ Мерчандайзинг
+7841312709,REMAR Group,2023,1800000000,"BTL,EVENT,SOUVENIR",manual_seed,,320,,"Организация мероприятий, промо-акции, MICE",,,РРАР-2024 BTL
+7707212296,Михайлов и Партнеры,2023,1750000000,COMM_GROUP,manual_seed,,190,,Стратегические коммуникации,,,РРАР PR
+7838028766,SPN Communications,2023,1650000000,"COMM_GROUP,EVENT",manual_seed,,280,,Коммуникационное агентство,,,РРАР PR
+7728300401,TMA-Draft,2023,1500000000,BTL,manual_seed,,280,,BTL и трейд-маркетинг,,,РАМУ BTL 2024
+7730549774,Upjet Travel,2023,1400000000,EVENT,manual_seed,,180,,MICE и бизнес-туризм,,,AdIndex MICE
+7702591012,Ace Target,2023,1350000000,BTL,manual_seed,,240,,Агентство торгового маркетинга,,,РАМУ BTL
+7718576908,Eventum Premo,2023,1200000000,"EVENT,FULL_CYCLE",manual_seed,,220,,Event-агентство полного цикла,,,AdIndex Event 2024
+7728573261,Oasis Rus,2023,1100000000,SOUVENIR,manual_seed,,150,,Дистрибуция сувенирной продукции,,,РРАР Сувениры
+7704248543,Подъёжики,2023,950000000,EVENT,manual_seed,,180,,Event-агентство,,,AdIndex Event 2024
+7707577515,Field Force,2023,920000000,BTL,manual_seed,,160,,Мерчандайзинг и полевой маркетинг,,,РАМУ BTL
+7704267567,Fleishman Hillard Vanguard,2023,890000000,COMM_GROUP,manual_seed,,120,,Международное коммуникационное агентство,,,РРАР PR
+7715553001,Action,2023,780000000,"BTL,EVENT",manual_seed,,140,,"BTL-агентство, event-маркетинг",,,РАМУ BTL 2024
+7708655870,Progression,2023,720000000,"BTL,FULL_CYCLE",manual_seed,,110,,BTL-агентство полного цикла,,,РАМУ BTL
+7716590367,Клеверенс,2023,680000000,"EVENT,FULL_CYCLE",manual_seed,,125,,Event и интегрированные коммуникации,,,AdIndex Event
+7714273519,CLIPPER,2023,620000000,SOUVENIR,manual_seed,,110,,Сувенирная продукция,,,РРАР Сувениры
+7705845920,Глобус,2023,560000000,"BTL,EVENT",manual_seed,,100,,BTL и event,,,РАМУ BTL
+7702339290,Моссовет,2023,520000000,EVENT,manual_seed,,95,,Event-агентство,,,AdIndex Event
+7716657832,Boost Team,2023,480000000,"BTL,EVENT",manual_seed,,90,,BTL и event-маркетинг,,,РАМУ BTL
+7728326650,Конференция,2023,450000000,EVENT,manual_seed,,75,,Организация конференций,,,AdIndex Event
+7722346159,АМАДЕО Принт,2023,420000000,SOUVENIR,manual_seed,,85,,Производство сувенирной продукции,,,РРАР Сувениры
+7805247110,Артика СПб,2023,380000000,"BTL,EVENT",manual_seed,,65,,BTL и event в Санкт-Петербурге,,,РАМУ региональный
+7842317884,Ривелти групп,2023,340000000,"BTL,SOUVENIR",manual_seed,,55,,BTL и промо-продукция,,,РАМУ
+7723863521,PRonline,2023,280000000,COMM_GROUP,manual_seed,,45,,Digital PR агентство,,,РРАР PR
