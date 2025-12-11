@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 BTL & Marketing Agencies Data Collector
 Сбор базы российских BTL и маркетинговых агентств с выручкой >= 200 млн руб.
